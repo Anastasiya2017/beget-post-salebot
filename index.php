@@ -2,7 +2,7 @@
 
     $request = $_POST;
 
-    const URL = ''; // url запроса
+    const URL = 'https://api.whereby.dev/v1/meetings'; // url запроса
 
     // параметры запроса
     $params = [
